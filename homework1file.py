@@ -1,0 +1,5 @@
+print ('this is my homework', end='|I want this at the end|\n')
+print ('this is another line of code')
+print ('this number', 2+2, 'can also be written like this', '2*2')
+print ('this is an example of a shopping list:')
+print('Fruit', 'bread', 'eggs', 'milk', 'and yoghurt.', sep=', ')
