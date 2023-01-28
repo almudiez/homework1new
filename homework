@@ -1,4 +1,0 @@
-print('this is an example for the homework, end='|I want this at the end|\n')
-print('this is my second line of code')
-print ('this is another line of code')
-print ('this number', 2+2, 'can also be written like this', '2*2')
